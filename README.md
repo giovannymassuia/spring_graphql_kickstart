@@ -1,4 +1,4 @@
-# Spring Boot GraphQL simple projetc
+# Simple Spring Boot GraphQL app
 
 ## How to test
 - Run the project
